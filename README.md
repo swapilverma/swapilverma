@@ -24,6 +24,9 @@
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-0088CE?style=for-the-badge&logo=kubeflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-217346?style=for-the-badge&logo=dbt&logoColor=white)
 
 #### 📚 Libraries & Frameworks
 
